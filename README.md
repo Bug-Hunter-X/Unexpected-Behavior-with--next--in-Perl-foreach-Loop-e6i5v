@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon error in Perl related to the use of the 'next' statement within a 'foreach' loop. The bug showcases unexpected behavior that arises when 'next' is used to skip iterations based on specific conditions. The solution provides a corrected version that addresses the issue and clarifies how to use 'next' effectively within foreach loops.
